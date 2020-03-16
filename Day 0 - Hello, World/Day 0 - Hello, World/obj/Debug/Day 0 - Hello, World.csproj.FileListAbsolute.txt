@@ -1,0 +1,6 @@
+C:\Users\root\source\repos\Day 0 - Hello, World\Day 0 - Hello, World\bin\Debug\Day 0 - Hello, World.exe.config
+C:\Users\root\source\repos\Day 0 - Hello, World\Day 0 - Hello, World\bin\Debug\Day 0 - Hello, World.exe
+C:\Users\root\source\repos\Day 0 - Hello, World\Day 0 - Hello, World\bin\Debug\Day 0 - Hello, World.pdb
+C:\Users\root\source\repos\Day 0 - Hello, World\Day 0 - Hello, World\obj\Debug\Day 0 - Hello, World.csprojAssemblyReference.cache
+C:\Users\root\source\repos\Day 0 - Hello, World\Day 0 - Hello, World\obj\Debug\Day 0 - Hello, World.exe
+C:\Users\root\source\repos\Day 0 - Hello, World\Day 0 - Hello, World\obj\Debug\Day 0 - Hello, World.pdb
