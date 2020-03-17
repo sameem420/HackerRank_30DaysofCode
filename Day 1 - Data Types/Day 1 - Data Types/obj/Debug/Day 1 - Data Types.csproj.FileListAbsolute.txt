@@ -1,0 +1,6 @@
+C:\Users\root\source\repos\Day 1 - Data Types\Day 1 - Data Types\bin\Debug\Day 1 - Data Types.exe.config
+C:\Users\root\source\repos\Day 1 - Data Types\Day 1 - Data Types\bin\Debug\Day 1 - Data Types.exe
+C:\Users\root\source\repos\Day 1 - Data Types\Day 1 - Data Types\bin\Debug\Day 1 - Data Types.pdb
+C:\Users\root\source\repos\Day 1 - Data Types\Day 1 - Data Types\obj\Debug\Day 1 - Data Types.csprojAssemblyReference.cache
+C:\Users\root\source\repos\Day 1 - Data Types\Day 1 - Data Types\obj\Debug\Day 1 - Data Types.exe
+C:\Users\root\source\repos\Day 1 - Data Types\Day 1 - Data Types\obj\Debug\Day 1 - Data Types.pdb
