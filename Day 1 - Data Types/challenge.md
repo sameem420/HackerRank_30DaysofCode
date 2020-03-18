@@ -16,9 +16,9 @@ Note: If you are using a language that doesn't support using  for string concate
 
 Input Format
 
-The first line contains an integer that you must sum with .
-The second line contains a double that you must sum with .
-The third line contains a string that you must concatenate with .
+The first line contains an integer that you must sum with i.
+The second line contains a double that you must sum with d.
+The third line contains a string that you must concatenate with s.
 
 Output Format
 
@@ -29,11 +29,13 @@ Sample Input
 12
 4.0
 is the best place to learn and practice coding!
+
 Sample Output
 
 16
 8.0
 HackerRank is the best place to learn and practice coding!
+
 Explanation
 
 When we sum the integers  and , we get the integer .
