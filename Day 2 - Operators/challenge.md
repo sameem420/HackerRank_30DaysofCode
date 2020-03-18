@@ -28,13 +28,16 @@ Sample Output
 
 Explanation
 
-mealCost = 12, tipPercent = 20, taxPercent = 8
 Given:
-, , 
+mealCost = 12, tipPercent = 20, taxPercent = 8
 
 Calculations:
 
+tip = meal_cost x tip_percent) / 100;
+tax = meal_cost x tax_percent) / 100;
+totalCost = meal_cost + tip + tax;
+
+round(totalCost) = 15
 
 
-
-We round  to the nearest dollar (integer) and then print our result, .
+We round totalCost to the nearest dollar (integer) and then print our result, 15.
