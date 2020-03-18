@@ -34,7 +34,9 @@ mealCost = 12, tipPercent = 20, taxPercent = 8
 Calculations:
 
 tip = meal_cost x tip_percent) / 100;
+
 tax = meal_cost x tax_percent) / 100;
+
 totalCost = meal_cost + tip + tax;
 
 round(totalCost) = 15
