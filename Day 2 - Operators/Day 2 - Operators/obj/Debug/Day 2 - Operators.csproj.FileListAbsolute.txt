@@ -1,0 +1,6 @@
+C:\Users\root\source\repos\Day 2 - Operators\Day 2 - Operators\obj\Debug\Day 2 - Operators.csprojAssemblyReference.cache
+C:\Users\root\source\repos\Day 2 - Operators\Day 2 - Operators\bin\Debug\Day 2 - Operators.exe.config
+C:\Users\root\source\repos\Day 2 - Operators\Day 2 - Operators\bin\Debug\Day 2 - Operators.exe
+C:\Users\root\source\repos\Day 2 - Operators\Day 2 - Operators\bin\Debug\Day 2 - Operators.pdb
+C:\Users\root\source\repos\Day 2 - Operators\Day 2 - Operators\obj\Debug\Day 2 - Operators.exe
+C:\Users\root\source\repos\Day 2 - Operators\Day 2 - Operators\obj\Debug\Day 2 - Operators.pdb
