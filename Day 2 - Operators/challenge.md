@@ -20,8 +20,11 @@ Print the total meal cost, where totalCost is the rounded integer result of the 
 Sample Input
 
 12.00
+
 20
+
 8
+
 Sample Output
 
 15
