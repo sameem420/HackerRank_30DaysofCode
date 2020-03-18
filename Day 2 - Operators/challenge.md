@@ -9,8 +9,11 @@ Note: Be sure to use precise values for your calculations, or you may end up wit
 Input Format
 
 There are 3 lines of numeric input:
+
 The first line has a double, mealCost (the cost of the meal before tax and tip).
+
 The second line has an integer, tipPercent (the percentage of  being added as tip).
+
 The third line has an integer, taxPercent (the percentage of  being added as tax).
 
 Output Format
