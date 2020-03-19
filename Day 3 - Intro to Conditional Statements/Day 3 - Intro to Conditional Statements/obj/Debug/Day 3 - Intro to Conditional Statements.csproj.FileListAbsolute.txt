@@ -1,0 +1,5 @@
+C:\Users\root\source\repos\Day 3 - Intro to Conditional Statements\Day 3 - Intro to Conditional Statements\bin\Debug\Day 3 - Intro to Conditional Statements.exe.config
+C:\Users\root\source\repos\Day 3 - Intro to Conditional Statements\Day 3 - Intro to Conditional Statements\bin\Debug\Day 3 - Intro to Conditional Statements.exe
+C:\Users\root\source\repos\Day 3 - Intro to Conditional Statements\Day 3 - Intro to Conditional Statements\bin\Debug\Day 3 - Intro to Conditional Statements.pdb
+C:\Users\root\source\repos\Day 3 - Intro to Conditional Statements\Day 3 - Intro to Conditional Statements\obj\Debug\Day 3 - Intro to Conditional Statements.exe
+C:\Users\root\source\repos\Day 3 - Intro to Conditional Statements\Day 3 - Intro to Conditional Statements\obj\Debug\Day 3 - Intro to Conditional Statements.pdb
