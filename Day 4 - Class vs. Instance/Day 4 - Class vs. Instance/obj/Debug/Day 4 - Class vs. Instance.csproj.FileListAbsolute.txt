@@ -1,0 +1,6 @@
+C:\Users\root\source\repos\Day 4 - Class vs. Instance\Day 4 - Class vs. Instance\bin\Debug\Day_4___Class_vs.Instance.exe.config
+C:\Users\root\source\repos\Day 4 - Class vs. Instance\Day 4 - Class vs. Instance\bin\Debug\Day_4___Class_vs.Instance.exe
+C:\Users\root\source\repos\Day 4 - Class vs. Instance\Day 4 - Class vs. Instance\bin\Debug\Day_4___Class_vs.Instance.pdb
+C:\Users\root\source\repos\Day 4 - Class vs. Instance\Day 4 - Class vs. Instance\obj\Debug\Day 4 - Class vs. Instance.csprojAssemblyReference.cache
+C:\Users\root\source\repos\Day 4 - Class vs. Instance\Day 4 - Class vs. Instance\obj\Debug\Day_4___Class_vs.Instance.exe
+C:\Users\root\source\repos\Day 4 - Class vs. Instance\Day 4 - Class vs. Instance\obj\Debug\Day_4___Class_vs.Instance.pdb
