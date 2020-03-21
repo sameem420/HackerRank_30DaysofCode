@@ -1,0 +1,6 @@
+C:\Users\root\source\repos\Day 5 - Loops\Day 5 - Loops\bin\Debug\Day 5 - Loops.exe.config
+C:\Users\root\source\repos\Day 5 - Loops\Day 5 - Loops\bin\Debug\Day 5 - Loops.exe
+C:\Users\root\source\repos\Day 5 - Loops\Day 5 - Loops\bin\Debug\Day 5 - Loops.pdb
+C:\Users\root\source\repos\Day 5 - Loops\Day 5 - Loops\obj\Debug\Day 5 - Loops.csprojAssemblyReference.cache
+C:\Users\root\source\repos\Day 5 - Loops\Day 5 - Loops\obj\Debug\Day 5 - Loops.exe
+C:\Users\root\source\repos\Day 5 - Loops\Day 5 - Loops\obj\Debug\Day 5 - Loops.pdb
