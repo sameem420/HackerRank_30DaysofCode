@@ -9,10 +9,14 @@ The first line contains an integer, TT (the number of test cases).
 Each line ii of the TT subsequent lines contain a String, SS.
 
 Constraints
+
 1≤T≤101≤T≤10
 2≤length of S≤100002≤length of S≤10000
+
 Output Format
+
 For each String SjSj (where 0≤j≤T−10≤j≤T−1), print SjSj‘s even-indexed characters, followed by a space, followed by SjSj‘s odd-indexed characters.
+
 Sample Input
 2
 Hacker
