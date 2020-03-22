@@ -1,0 +1,6 @@
+C:\Users\root\source\repos\Day 6 - Lets Review\Day 6 - Lets Review\obj\Debug\Day 6 - Lets Review.csprojAssemblyReference.cache
+C:\Users\root\source\repos\Day 6 - Lets Review\Day 6 - Lets Review\bin\Debug\Day 6 - Lets Review.exe.config
+C:\Users\root\source\repos\Day 6 - Lets Review\Day 6 - Lets Review\bin\Debug\Day 6 - Lets Review.exe
+C:\Users\root\source\repos\Day 6 - Lets Review\Day 6 - Lets Review\bin\Debug\Day 6 - Lets Review.pdb
+C:\Users\root\source\repos\Day 6 - Lets Review\Day 6 - Lets Review\obj\Debug\Day 6 - Lets Review.exe
+C:\Users\root\source\repos\Day 6 - Lets Review\Day 6 - Lets Review\obj\Debug\Day 6 - Lets Review.pdb
