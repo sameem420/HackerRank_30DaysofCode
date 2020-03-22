@@ -4,8 +4,10 @@ Given a string, SS, of length NN that is indexed from 00 to N−1N−1, print it
 Note: 00 is considered to be an even index.
 
 Input Format
+
 The first line contains an integer, TT (the number of test cases).
 Each line ii of the TT subsequent lines contain a String, SS.
+
 Constraints
 1≤T≤101≤T≤10
 2≤length of S≤100002≤length of S≤10000
