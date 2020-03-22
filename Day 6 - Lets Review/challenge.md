@@ -17,11 +17,15 @@ Output Format
 
 For each String SjSj (where 0≤j≤T−10≤j≤T−1), print SjSj‘s even-indexed characters, followed by a space, followed by SjSj‘s odd-indexed characters.
 
+
 Sample Input
+
 2
 Hacker
 Rank
+
 Sample Output
+
 Hce akr
 Rn ak
 Explanation
@@ -32,10 +36,13 @@ S[2]=“c”
 S[3]=“k”
 S[4]=“e”
 S[5]=“r”
+
 The even indices are 0, 2, and 4, and the odd indices are 1, 3, and 5. We then print a single line of 2 space-separated strings; the first string contains the ordered characters from S‘s even indices (Hce), and the second string contains the ordered characters from S‘s odd indices (akr).
+
 Test Case 1: S=“Rank”
 S[0]=“R”
 S[1]=“a”
 S[2]=“n”
 S[3]=“k”
+
 The even indices are 0 and 2, and the odd indices are 1 and 3. We then print a single line of 2 space-separated strings; the first string contains the ordered characters from S‘s even indices (Rn), and the second string contains the ordered characters from S‘s odd indices (ak).
