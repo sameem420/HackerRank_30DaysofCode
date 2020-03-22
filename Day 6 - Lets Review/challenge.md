@@ -21,14 +21,20 @@ For each String SjSj (where 0≤j≤T−10≤j≤T−1), print SjSj‘s even-ind
 Sample Input
 
 2
+
 Hacker
+
 Rank
 
 Sample Output
 
 Hce akr
+
 Rn ak
+
+
 Explanation
+
 Test Case 0: S=“Hacker”
 S[0]=“H”
 S[1]=“a”
