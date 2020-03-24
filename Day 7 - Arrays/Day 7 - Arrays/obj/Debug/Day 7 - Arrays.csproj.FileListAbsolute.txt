@@ -1,0 +1,6 @@
+C:\Users\root\source\repos\Day 7 - Arrays\Day 7 - Arrays\bin\Debug\Day 7 - Arrays.exe.config
+C:\Users\root\source\repos\Day 7 - Arrays\Day 7 - Arrays\bin\Debug\Day 7 - Arrays.exe
+C:\Users\root\source\repos\Day 7 - Arrays\Day 7 - Arrays\bin\Debug\Day 7 - Arrays.pdb
+C:\Users\root\source\repos\Day 7 - Arrays\Day 7 - Arrays\obj\Debug\Day 7 - Arrays.csprojAssemblyReference.cache
+C:\Users\root\source\repos\Day 7 - Arrays\Day 7 - Arrays\obj\Debug\Day 7 - Arrays.exe
+C:\Users\root\source\repos\Day 7 - Arrays\Day 7 - Arrays\obj\Debug\Day 7 - Arrays.pdb
