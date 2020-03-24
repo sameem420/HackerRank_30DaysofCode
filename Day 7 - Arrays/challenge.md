@@ -19,7 +19,9 @@ Constraints
 
 1 <= N <= 1000
 
-, where  is the  integer in the array.
+1 <= A(ith index) <= 10000 , where A is the ith integer in the array.
+
+
 Output Format
 
-Print the elements of array  in reverse order as a single line of space-separated numbers.
+Print the elements of array A in reverse order as a single line of space-separated numbers.
