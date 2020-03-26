@@ -1,0 +1,6 @@
+C:\Users\root\source\repos\Day 8 - Dictionaries and Maps\Day 8 - Dictionaries and Maps\bin\Debug\Day 8 - Dictionaries and Maps.exe.config
+C:\Users\root\source\repos\Day 8 - Dictionaries and Maps\Day 8 - Dictionaries and Maps\bin\Debug\Day 8 - Dictionaries and Maps.exe
+C:\Users\root\source\repos\Day 8 - Dictionaries and Maps\Day 8 - Dictionaries and Maps\bin\Debug\Day 8 - Dictionaries and Maps.pdb
+C:\Users\root\source\repos\Day 8 - Dictionaries and Maps\Day 8 - Dictionaries and Maps\obj\Debug\Day 8 - Dictionaries and Maps.csprojAssemblyReference.cache
+C:\Users\root\source\repos\Day 8 - Dictionaries and Maps\Day 8 - Dictionaries and Maps\obj\Debug\Day 8 - Dictionaries and Maps.exe
+C:\Users\root\source\repos\Day 8 - Dictionaries and Maps\Day 8 - Dictionaries and Maps\obj\Debug\Day 8 - Dictionaries and Maps.pdb
