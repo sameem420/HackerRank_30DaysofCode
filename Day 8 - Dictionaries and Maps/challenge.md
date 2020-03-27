@@ -21,7 +21,9 @@ Note: Names consist of lowercase English alphabetic letters and are first names 
 
 Constraints
 
+1 <= n <= 10^5
 
+1 <= queries <= 10^5
 
 Output Format
 
