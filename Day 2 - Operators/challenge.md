@@ -20,6 +20,7 @@ The second line has an integer, tipPercent (the percentage of  being added as ti
 
 The third line has an integer, taxPercent (the percentage of  being added as tax).
 
+
 Output Format
 
 Print the total meal cost, where totalCost is the rounded integer result of the entire bill (mealCost with added tax and tip).
@@ -32,13 +33,17 @@ Sample Input
 
 8
 
+
 Sample Output
 
 15
 
+
 Explanation
 
+
 Given:
+
 mealCost = 12, tipPercent = 20, taxPercent = 8
 
 Calculations:
